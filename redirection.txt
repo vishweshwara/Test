@@ -1,0 +1,4 @@
+This should be in file in real
+This should be in file in real
+This should be in file in line 2
+This is redirection
